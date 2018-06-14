@@ -1,0 +1,13 @@
+var a=3,b=4
+function Sum(_a,_b){
+if(_a <=_b){
+
+return (3+_a)*_b^2
+_b = 3
+}
+else return _a-_b
+}
+a = new Array(2)
+goto g
+g:
+var sum=Sum(a[0, 1],b)

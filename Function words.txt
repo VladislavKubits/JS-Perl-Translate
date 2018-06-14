@@ -1,0 +1,8 @@
+var
+new
+Array
+function
+return
+goto
+if
+else

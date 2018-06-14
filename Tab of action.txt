@@ -1,0 +1,5 @@
+N,C,I мо йо йн сок ао : O = iF iT iA iAEM Mi Mi: Mi+1: return /n 
+Push N Push_{ N Push_} N Push_KO N Push_if N Push_GOTO N Push_BP N Push_rp N Push_RP N Push_& N Push_SUB N Pop Pop Push_@ N St(1) N N N Push_} N Push_RETURN N Out N 
+																
+N,C,I мо йо йн сок ао : O = iF iT iA iAEM Mi Mi: Mi+1: return /n 
+Push N Push_{ N N N N N St(0) Stop Push_ELSE N Push_BP N Push_rp N Push_RP N Push_& N Push_SUB N N N N N N N St(0) N N N N N Out N 

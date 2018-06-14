@@ -1,0 +1,12 @@
+#!/usr/bin/perl
+$a=3,$b=4;
+sub Sum($_a,$_b){
+if($_a <= $_b){
+return ((3 + $_a) * ($_b ** 2));
+$_b=3;
+} else {return ($_a - $_b);}
+}
+goto g;
+g:
+$sum=&Sum(@a[0,1],$b);
+unlink 0;

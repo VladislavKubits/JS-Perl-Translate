@@ -1,0 +1,13 @@
+I1 N1 O1 I2 N2 O1 112йн 
+ I3 I4 I5 3T 11мо 
+ I4 I5 O10 M1 сок 
+ 
+ N1 I4 O2 I5 N3 O5 O4 W5 
+ I5 N1 O1 
+ 
+ M2 ао M1: I4 I5 O3 W5 M2: 
+ йо 
+ I1 N3 2A 
+ I6 ао 
+ I6 R6 
+ I7 I3 I1 N4 N5 3AEM I2 3F O1 211йн 
